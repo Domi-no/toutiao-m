@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <router-view/>
+    111
+    <router-view />
   </div>
 </template>
 
 <style lang="less">
-
 </style>
